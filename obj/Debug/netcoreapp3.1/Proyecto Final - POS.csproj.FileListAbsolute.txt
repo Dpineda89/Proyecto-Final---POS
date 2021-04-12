@@ -1,0 +1,13 @@
+D:\Users\DELL\Desktop\L2\Ejercicios VS Code\Proyecto Final - POS\obj\Debug\netcoreapp3.1\Proyecto Final - POS.csprojAssemblyReference.cache
+D:\Users\DELL\Desktop\L2\Ejercicios VS Code\Proyecto Final - POS\obj\Debug\netcoreapp3.1\Proyecto Final - POS.AssemblyInfoInputs.cache
+D:\Users\DELL\Desktop\L2\Ejercicios VS Code\Proyecto Final - POS\obj\Debug\netcoreapp3.1\Proyecto Final - POS.AssemblyInfo.cs
+D:\Users\DELL\Desktop\L2\Ejercicios VS Code\Proyecto Final - POS\obj\Debug\netcoreapp3.1\Proyecto Final - POS.csproj.CoreCompileInputs.cache
+D:\Users\DELL\Desktop\L2\Ejercicios VS Code\Proyecto Final - POS\bin\Debug\netcoreapp3.1\Proyecto Final - POS.exe
+D:\Users\DELL\Desktop\L2\Ejercicios VS Code\Proyecto Final - POS\bin\Debug\netcoreapp3.1\Proyecto Final - POS.deps.json
+D:\Users\DELL\Desktop\L2\Ejercicios VS Code\Proyecto Final - POS\bin\Debug\netcoreapp3.1\Proyecto Final - POS.runtimeconfig.json
+D:\Users\DELL\Desktop\L2\Ejercicios VS Code\Proyecto Final - POS\bin\Debug\netcoreapp3.1\Proyecto Final - POS.runtimeconfig.dev.json
+D:\Users\DELL\Desktop\L2\Ejercicios VS Code\Proyecto Final - POS\bin\Debug\netcoreapp3.1\Proyecto Final - POS.dll
+D:\Users\DELL\Desktop\L2\Ejercicios VS Code\Proyecto Final - POS\bin\Debug\netcoreapp3.1\Proyecto Final - POS.pdb
+D:\Users\DELL\Desktop\L2\Ejercicios VS Code\Proyecto Final - POS\obj\Debug\netcoreapp3.1\Proyecto Final - POS.dll
+D:\Users\DELL\Desktop\L2\Ejercicios VS Code\Proyecto Final - POS\obj\Debug\netcoreapp3.1\Proyecto Final - POS.pdb
+D:\Users\DELL\Desktop\L2\Ejercicios VS Code\Proyecto Final - POS\obj\Debug\netcoreapp3.1\Proyecto Final - POS.genruntimeconfig.cache
